@@ -14,5 +14,3 @@ def binary_multiple_of_4?(s)
    return false if s.empty? || s =~ /[^01]/
   (s == '0') || s.end_with?('00')
 end
-
-puts starts_with_consonant?("@")
