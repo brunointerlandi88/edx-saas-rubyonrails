@@ -28,5 +28,3 @@ def sum_to_n? arr, n
  end
  return false
 end
-
-puts max_2_sum([3, 5, 7, 2, 4, 0, 1])
